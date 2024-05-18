@@ -1,10 +1,10 @@
 import React from 'react'
-import Tierra from "../images/tierra.jpg"
+import tierra from "../images/tierra.jpg"
 
 const PlanetaTierra = () => {
   return (
     <div>
-      <img src={Tierra} alt="Imagen del planeta Tierra" />
+      <img src={tierra} alt="Imagen del planeta Tierra" />
     </div>
   )
 }

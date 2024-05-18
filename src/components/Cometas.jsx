@@ -1,10 +1,10 @@
 import React from 'react'
-import Cometa from "../images/cometa.jpg"
+import cometa from "../images/cometa.jpg"
 
 const Cometas = () => {
   return (
     <div>
-      <img src={Cometa} alt="Imagen de un cometa" />
+      <img src={cometa} alt="Imagen de un cometa" />
     </div>
   )
 }

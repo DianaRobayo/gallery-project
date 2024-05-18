@@ -1,10 +1,10 @@
 import React from 'react'
-import Galaxia from "../images/galaxia.jpg"
+import galaxia from "../images/galaxia.jpg"
 
 const Galaxias = () => {
   return (
     <div>
-      <img src={Galaxia} alt="Imagen de una galaxia" />
+      <img src={galaxia} alt="Imagen de una galaxia" />
     </div>
   )
 }

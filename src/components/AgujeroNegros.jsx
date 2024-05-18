@@ -1,10 +1,10 @@
 import React from 'react'
-import AgujeroNegro from "../images/agujero-negro.jpg"
+import agujeroNegro from "../images/agujero-negro.jpg"
 
 const AgujeroNegros = () => {
   return (
     <div>
-      <img src={AgujeroNegro} alt="Imagen de un agujero negro" />
+      <img src={agujeroNegro} alt="Imagen de un agujero negro" />
     </div>
   )
 }

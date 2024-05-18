@@ -1,12 +1,12 @@
 import React from 'react'
-import SistemaSolar1 from "../images/sistema-solar1.jpg"
+import sistemaSolar1 from "../images/sistema-solar1.jpg"
 
-const SistemaSolars = () => {
+const SistemaSolar = () => {
   return (
     <div>
-      <img src={SistemaSolar1} alt="Imagen del sistema solar" />
+      <img src={sistemaSolar1} alt="Imagen del sistema solar" />
     </div>
   )
 }
 
-export default SistemaSolars
+export default SistemaSolar

@@ -1,10 +1,10 @@
 import React from 'react'
-import Explosion from "../images/explosion-estrella.jpg"
+import explosion from "../images/explosion-estrella.jpg"
 
 const Explosiones = () => {
   return (
     <div>
-      <img src={Explosion} alt="Imagen de una explosion de estrellas" />
+      <img src={explosion} alt="Imagen de una explosion de estrellas" />
     </div>
   )
 }

@@ -1,10 +1,10 @@
 import React from 'react'
-import Supernova from "../images/supernova.jpg"
+import supernova from "../images/supernova.jpg"
 
 const Supernovas = () => {
   return (
     <div>
-      <img src={Supernova} alt="Imagen de una supernova" />
+      <img src={supernova} alt="Imagen de una supernova" />
     </div>
   )
 }

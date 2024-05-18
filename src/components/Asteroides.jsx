@@ -1,10 +1,10 @@
 import React from 'react'
-import Asteroide from "../images/asteroide.jpg"
+import asteroide from "../images/asteroide.jpg"
 
 const Asteroides = () => {
   return (
     <div>
-      <img src={Asteroide} alt="Imagen de un asteroide" />
+      <img src={asteroide} alt="Imagen de un asteroide" />
     </div>
   )
 }
