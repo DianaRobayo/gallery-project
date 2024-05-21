@@ -4,7 +4,7 @@ import cometa from "../images/cometa.jpg"
 const Cometas = () => {
   return (
     <div>
-      <img src={cometa} alt="Imagen de un cometa" />
+      <img src={cometa} alt="Imagen de un cometa" class="image" />
     </div>
   )
 }

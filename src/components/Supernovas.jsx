@@ -4,7 +4,7 @@ import supernova from "../images/supernova.jpg"
 const Supernovas = () => {
   return (
     <div>
-      <img src={supernova} alt="Imagen de una supernova" />
+      <img src={supernova} alt="Imagen de una supernova" class="image" />
     </div>
   )
 }

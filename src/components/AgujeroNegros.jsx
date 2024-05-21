@@ -4,7 +4,7 @@ import agujeroNegro from "../images/agujero-negro.jpg"
 const AgujeroNegros = () => {
   return (
     <div>
-      <img src={agujeroNegro} alt="Imagen de un agujero negro" />
+      <img src={agujeroNegro} alt="Imagen de un agujero negro"  class="image"/>
     </div>
   )
 }

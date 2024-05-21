@@ -4,7 +4,7 @@ import galaxia from "../images/galaxia.jpg"
 const Galaxias = () => {
   return (
     <div>
-      <img src={galaxia} alt="Imagen de una galaxia" />
+      <img src={galaxia} alt="Imagen de una galaxia" class="image"/>
     </div>
   )
 }
